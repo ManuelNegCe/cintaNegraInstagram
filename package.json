@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yibarr/b47-cn.git"
+    "url": "git+https://github.com/ManuelNegCe/cintaNegraInstagram.git"
   },
   "keywords": [],
   "author": "Yael Ibarra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yibarr/b47-cn/issues"
+    "url": "https://github.com/ManuelNegCe/cintaNegraInstagram/issues"
   },
-  "homepage": "https://github.com/Yibarr/b47-cn#readme",
+  "homepage": "https://github.com/ManuelNegCe/cintaNegraInstagram#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "celebrate": "^13.0.4",
